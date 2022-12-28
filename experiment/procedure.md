@@ -33,7 +33,7 @@ Once your link lengths are validated, you are expected to find out graphically t
 
 To get an animated guidance of the graphical analysis using the applet click below:
 
-[How to use the Drawing Board to find coupler position](drawing-board-demo.html)
+[How to use the Drawing Board to find coupler position](drawing-board-js/drawing-board-demo.html)
 
  <p style="text-align: center;">
     <object width="700" height="500" data="./content/GrashofRRRRDoubleRockerCouplerPositionChecker/index.html"></object>
